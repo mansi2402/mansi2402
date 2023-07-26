@@ -24,15 +24,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on   
-  
-
-- 🌱 I’m currently learning java  
-  
-
-- ❓ Ask me about anything related to web development  
-  
-
+- 📚 Learning Forever: Embracing new technologies every day!
+- 📚 Python Enthusiast: Constantly learning and experimenting with Python. 
+- ❓ Ask me about anything related to web development
+- 👨‍💻 Code Craftsman: Crafting elegant and efficient solutions.
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
