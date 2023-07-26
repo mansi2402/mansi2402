@@ -1,8 +1,8 @@
-### <div align="center">I'm Mansi , a full-time front end developer 👨‍💻 </div>  
+### <div align="center">I'm Mansi  👨‍💻 </div>  
   
 
 <div align="right">
-<img src="" align="right" style="width: 100%" />
+
 </div>  
   
 
