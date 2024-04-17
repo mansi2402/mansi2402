@@ -7,15 +7,15 @@
   
 
 - ❓ Ask me about anything related to web development  
-  
+
+- ✨ Currently, I'm honing my skills in machine learning
 
 - 📚 Python Enthusiast: Constantly learning and experimenting with Python.  
   
-
 - 👨‍💻 Code Craftsman: Crafting elegant and efficient solutions.  
-  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times  
+- ⚡ Fun fact: I keep night shift swithed on at all times
+
   
 
 <br/>  
